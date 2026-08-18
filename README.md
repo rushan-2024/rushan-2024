@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ff88&height=220&section=header&text=Rushan&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=8892b0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ff88&height=220&section=header&text=Rushan Ansari&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=8892b0&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🛡️+Cybersecurity+Engineer;🐍+Python+Developer;🔥+WAF+%26+IPS+Builder;💡+Full-Stack+Craftsman;⚡+Security+%7C+Performance+%7C+Precision)](https://git.io/typing-svg)
 
