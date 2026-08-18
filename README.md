@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ff88&height=220&section=header&text=Rushan Ansari&fontSize=80&fontColor=00ff88&fontAlignY=38&desc=Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=8892b0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00ff88&height=220&section=header&text=Rushan%20Ansari&fontSize=70&fontColor=00ff88&fontAlignY=38&desc=Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=8892b0&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=60&lines=🛡️+Cybersecurity+Engineer;🐍+Python+Developer;🔥+WAF+%26+IPS+Builder;💡+Full-Stack+Craftsman;⚡+Security+%7C+Performance+%7C+Precision)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 ```bash
 ┌──────────────────────────────────────────────┐
-│  Name     : Rushan (rushan_2006)             │
+│  Name     : Rushan Ansari (rushan_2006)      │
 │  Role     : Python Dev & Cybersecurity Eng.  │
 │  Passion  : Building secure, scalable systems│
 │  Focus    : WAF · APIs · Full-Stack · AI     │
@@ -178,8 +178,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rushan-2024/rushan-2024/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> 💡 *To enable the snake animation, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repository.*
-
 </div>
 
 ---
@@ -209,8 +207,8 @@ print("Building the future, one secure line of code at a time. 🔒")
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/rushan-2024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/rushan-ansari-19a5aa372/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:rushanansari75401@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/rushan-2024)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://rushan-2024.github.io)
 
 <br/>
