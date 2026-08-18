@@ -207,8 +207,8 @@ print("Building the future, one secure line of code at a time. 🔒")
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/rushan-2024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/rushan-2024)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://linkedin.com/in/rushan-ansari19a5aa372)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:rushanansari75401@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://rushan-2024.github.io)
 
 <br/>
